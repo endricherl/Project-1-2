@@ -1,0 +1,27 @@
+C:\Users\ErL\source\repos\Project 1\Project 1\bin\Debug\net6.0-windows\Project 1.exe
+C:\Users\ErL\source\repos\Project 1\Project 1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ErL\source\repos\Project 1\Project 1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ErL\source\repos\Project 1\Project 1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ErL\source\repos\Project 1\Project 1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ErL\source\repos\Project 1\Project 1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ErL\source\repos\Project 1\Project 1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\Project 1.csproj.AssemblyReference.cache
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\Project_1.Form1.resources
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\Project_1.Form2.resources
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\Project_1.Form3.resources
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\Project 1.csproj.GenerateResource.cache
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\Project 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\Project 1.AssemblyInfoInputs.cache
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\Project 1.AssemblyInfo.cs
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\Project 1.csproj.CopyComplete
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\Project 1.dll
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\refint\Project 1.dll
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\Project 1.pdb
+C:\Users\ErL\source\repos\Project 1\Project 1\bin\Debug\net6.0-windows\Project 1.deps.json
+C:\Users\ErL\source\repos\Project 1\Project 1\bin\Debug\net6.0-windows\Project 1.runtimeconfig.json
+C:\Users\ErL\source\repos\Project 1\Project 1\bin\Debug\net6.0-windows\Project 1.dll
+C:\Users\ErL\source\repos\Project 1\Project 1\bin\Debug\net6.0-windows\Project 1.pdb
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\Project 1.genruntimeconfig.cache
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\ref\Project 1.dll
+C:\Users\ErL\source\repos\Project 1\Project 1\obj\Debug\net6.0-windows\Project_1.Properties.Resources.resources
